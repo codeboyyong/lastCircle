@@ -127,7 +127,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = "王亚杰";
+				ORGANIZATIONNAME = "Jack Wang";
 				TargetAttributes = {
 					25FCA14F1DF50AFB0029EB7A = {
 						CreatedOnToolsVersion = 8.1;
@@ -307,7 +307,7 @@
 				INFOPLIST_FILE = circle/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wangyajie.circle;
+				PRODUCT_BUNDLE_IDENTIFIER = jack.circle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -322,7 +322,7 @@
 				INFOPLIST_FILE = circle/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = wangyajie.circle;
+				PRODUCT_BUNDLE_IDENTIFIER = jack.circle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

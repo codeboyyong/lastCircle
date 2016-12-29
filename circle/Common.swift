@@ -2,8 +2,8 @@
 //  Common.swift
 //  circle
 //
-//  Created by 王亚杰 on 2016/12/14.
-//  Copyright © 2016年 王亚杰. All rights reserved.
+//  Created by Jack Wang on 2016/12/14.
+//  Copyright © 2016年 Jack Wang. All rights reserved.
 //
 
 import UIKit
